@@ -1,0 +1,16 @@
+{
+  "name": "coc_backend",
+  "version": "1.0.0",
+  "description": "a backend at \u001cCode With Node",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Node_X",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
